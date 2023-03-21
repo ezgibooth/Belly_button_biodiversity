@@ -44,3 +44,6 @@ The created dashboard allows the re-creation of all the plots when a new sample 
     The gauge code accounts for values ranging from 0 through 9.
 
     It is updated whenever a new sample is selected.
+
+
+![Screenshot Subject940 Dashboard](https://user-images.githubusercontent.com/118090932/226495700-bbe01c85-6e2d-44ee-b0f6-dc2cd873a71c.png)
